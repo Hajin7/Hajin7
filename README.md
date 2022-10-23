@@ -1,1 +1,1 @@
-![./Fireworks.gif](Fireworks)
+![Firework](./Fireworks.gif)
