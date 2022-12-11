@@ -1,1 +1,1 @@
-![Firework](./Fireworks.gif)
+![](./Elaina Library.png)
